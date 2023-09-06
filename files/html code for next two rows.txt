@@ -1,0 +1,17 @@
+         </tr>
+         <tr class=center>
+            <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+               <a href="index.html">Right Back</a></th>
+           <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+            <a href="index.html">Right Back</a></th>
+            <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+               <a href="index.html">Right Back</a></th>
+         </tr>
+         <tr class=center>
+            <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+               <a href="index.html">Right Back</a></th>
+           <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+            <a href="index.html">Right Back</a></th>
+            <th><a href="index.html"><img src="images/me.jpg" alt="Photo of me" width="292" height="212"></a>
+               <a href="index.html">Right Back</a></th>
+         </tr>
