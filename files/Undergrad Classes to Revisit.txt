@@ -1,16 +1,16 @@
-Math Stats
-  - 
 Comp ODEs
   - Finding systems that require different types of method (meteorology, cosmology)
 Nonlinear PDEs
   - Distance between interacting shocks when the energy is equal
   - Optimal control theory and CoV
-Integral Equations
-  - 
-Stochastic Processes
 Comp Neuro
+  - Excitability in neurons/Fitz-Hugh Nagumo/graphic properties
+
+Math Stats
 Machine Learning
 Applied Stats
 Micro Econ
 Complex Analysis
 Real Analysis
+Integral Equations
+Stochastic Processes
